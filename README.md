@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there, my name is J 👋
+
+I am a Devops Engineer early on in my carreer, so I am still learning.
+
+- 🔭 I’m currently working on Devops/Linux projects.
+- 🌱 I’m currently learning k8s, linux etc.
+- 👯 I’m looking to collaborate on opensource projects.
+
+![User Stats](https://github-readme-stats.vercel.app/api?username=jahenr&theme=blue-green)
 
 <!--
 **Jahenr/jahenr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
