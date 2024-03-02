@@ -22,6 +22,8 @@ Toolbag(Its growing):
 
 ![User Stats](https://github-readme-stats.vercel.app/api?username=jahenr&theme=blue-green)
 
+[![An image of @jahenr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jahenr)](https://holopin.io/@jahenr)
+
 <!--
 **Jahenr/jahenr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
